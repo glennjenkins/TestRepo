@@ -1,1 +1,2 @@
 Test of adding a file to a branch
+local change to a file
